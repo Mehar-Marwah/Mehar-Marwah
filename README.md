@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **ELan AI , VogurVault**
+- 🔭 I’m currently working on **ELan AI , VogueVault**
 
 - 🌱 I’m currently learning **BSc Artificial Intelligence**
 
