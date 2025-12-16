@@ -32,17 +32,31 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages, Tools & Skills
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45"/>
 </p>
+
+---
+
+## 🎨 Creative Skills
+- ✏️ Sketching & Concept Drawing  
+- 🎭 Visual Storytelling  
+- 🎨 Design Thinking
+- Dancing 
 
 ---
 
 ## 🌟 What I’m Passionate About
 - Frontend Development & UI Design  
-- Artificial Intelligence Applications  
+- Artificial Intelligence & Machine Learning  
+- Data Analysis & Visualization  
 - Creative Tech & Digital Products  
 
 ---
